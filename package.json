@@ -1,0 +1,24 @@
+{
+  "name": "muhammet-sait-kaya",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "muhammet": "echo 'benim adım muhammet'"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "muhammet sait kaya",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammet-27/muhammet-sait-kaya.git"
+  }
+
+}
